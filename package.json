@@ -1,0 +1,16 @@
+{
+  "name": "raycast-unblock-docs",
+  "version": "0.7.0-beta.0",
+  "description": "Unblock all features in Raycast Pro Plan Docs",
+  "author": "wibus-wee <wibus@qq.com>",
+  "license": "MIT",
+  "keywords": ["raycast-unblock", "docs"],
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  }
+}
