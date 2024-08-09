@@ -1,8 +1,8 @@
 # ray.pro
 
-<img align="right" src="./.github/icon.png" height="150">
+<img align="right" src="/public/icon.png" height="150">
 
-> **Ray Pro Docs
+> Ray Pro Docs
 
 > [!WARNING]
 > This project is for educational purposes only.
@@ -15,8 +15,6 @@ We only borrowed the **operation interface** of Raycast, and **did not modify th
 We just coded a proxy server to forward Raycast's requests to our proxy server, and **implemented similar functions** in Raycast Pro Plan **in other ways**.
 
 ## Getting Started
-
-~~Please follow the documentation at [wibus-wee.github.io/raycast-unblock](https://wibus-wee.github.io/raycast-unblock/)!~~
 
 暂时没了
 
